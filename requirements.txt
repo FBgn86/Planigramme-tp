@@ -1,7 +1,5 @@
 streamlit
+pandas
 python-docx
 PyPDF2
 openpyxl
-pandas
-odfpy
-reportlab
