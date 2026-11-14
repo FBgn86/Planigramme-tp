@@ -1,0 +1,8 @@
+# 📋 Planigramme TP
+
+Application web gratuite pour générer automatiquement le planigramme d'un TP
+à partir de fiches techniques (DOCX, PDF, ODT, IDT, XLSX).
+
+🟩 sale · 🟦 propre · 🟥 cuisson
+
+Déployée sur Streamlit Community Cloud.
